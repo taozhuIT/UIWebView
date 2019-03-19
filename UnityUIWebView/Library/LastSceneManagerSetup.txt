@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Data/Scene/UIWebView.unity
+- path: Assets/3rd/UniWebView/UniWebView/Demo/UniWebViewDemo.unity
   isLoaded: 1
   isActive: 1

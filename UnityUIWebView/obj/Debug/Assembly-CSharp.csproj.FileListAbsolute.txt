@@ -1,0 +1,2 @@
+D:\TestProject\UIWebView\UnityUIWebView\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\TestProject\UIWebView\UnityUIWebView\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
